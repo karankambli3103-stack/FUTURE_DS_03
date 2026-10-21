@@ -179,3 +179,12 @@ UI/UX Design Framework: Dark Theme (#1E1E1E container background, #118DFF primar
 Statistical Methods: Chi-Square goodness-of-fit testing ($p < 0.05$) to validate statistical significance of conversion gaps
 
 
+## Project Structure
+```text
+FUTURE_DS_03/
+│
+├── FUTURE_DS_03.pbix                  # Master Power BI Desktop report file
+├── README.md                          # Comprehensive project documentation
+├── Screenshot 2026-10-21 173428.png   # Funnel Overview page preview
+├── Screenshot 2026-10-21 173449.png   # Segments Deep-Dive page preview
+└── Screenshot 2026-10-21 173506.png   # Strategic Insights page preview
